@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 https://youtu.be/_JQd5BqWgIM
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1r1fNkTx0JD11g1E7FgkBvSqMn0VwyMlz_l6LqqFZx1Q/edit#slide=id.g21fd29f80e0_3_0
 
 Project title:
 Nothing as of yet
