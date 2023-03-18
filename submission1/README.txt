@@ -2,7 +2,7 @@ Overleaf link with edit access to ST, RA and my gmail.
 https://www.overleaf.com/5813943163csgyqhwxthwy
 
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/_JQd5BqWgIM
 
 Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/.....
