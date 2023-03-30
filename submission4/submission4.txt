@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 
 
 Paper title:
-Personalized Recommendations of Products to Users Using NLP
+Product Recommendation System Using NLP
 
 Paper presentation (anyone can view without login):
 
