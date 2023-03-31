@@ -1,5 +1,5 @@
 Overleaf link with edit access to ST, RA and my gmail.
-
+https://www.overleaf.com/5813943163csgyqhwxthwy
 
 Unlisted YouTube video:
 
@@ -11,7 +11,7 @@ Paper title:
 Product Recommendation System Using NLP
 
 Paper presentation (anyone can view without login):
-
+The paper itself was used to present
 
 Paper submission date (to workshop/conference):
 
